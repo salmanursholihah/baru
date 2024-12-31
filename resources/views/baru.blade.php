@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>nbaru</h1>
+     <h2>test baju baru beli</h2>
 </body>
 </html>
